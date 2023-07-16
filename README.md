@@ -1,6 +1,10 @@
 # iTemp - ESP32 Bridge for Xiaomi Mijia 2 Temperature Sensor with Flask Web Interface
 
+![Pic](Screenshots/PXL_20230716_102110496.jpg)
+
 This project utilizes an ESP32 microcontroller as a bridge between a Bluetooth Low Energy (BLE) device, specifically the Xiaomi Mijia 2 Temperature Sensor, and a Python server running Flask. The ESP32 acts as a mediator, collecting temperature data from the sensor and forwarding it to the Flask server. The server then displays the temperature readings through a web interface.
+
+![Header](Screenshots/Mainpage.jpg)
 
 ## Hardware Requirements
 - ESP32 microcontroller
